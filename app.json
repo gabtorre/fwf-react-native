@@ -1,0 +1,12 @@
+{
+  "name": "filmswithfriends",
+  "displayName": "filmswithfriends",
+  "expo": {
+    "name": "filmswithfriends",
+    "slug": "filmswithfriends",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
